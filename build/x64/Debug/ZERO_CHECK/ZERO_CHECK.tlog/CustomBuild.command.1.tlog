@@ -1,0 +1,10 @@
+^C:\USERS\MIRFE\ONEDRIVE\DESKTOP\PROGRAMACIÓN\ESP32\BUILD\CMAKEFILES\8C7D9CD1FEDA74FC017A23F31E8CDCB1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/mirfe/OneDrive/Desktop/Programación/ESP32 -BC:/Users/mirfe/OneDrive/Desktop/Programación/ESP32/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/mirfe/OneDrive/Desktop/Programación/ESP32/build/ESP32.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,62 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakePushCheckState.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindBZip2.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindJPEG.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPNG.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindTIFF.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/SelectLibraryConfigurations.cmake
+C:/Users/mirfe/OneDrive/Desktop/Programación/ESP32/CMakeLists.txt
+C:/Users/mirfe/OneDrive/Desktop/Programación/ESP32/build/CMakeFiles/3.30.2/CMakeCCompiler.cmake
+C:/Users/mirfe/OneDrive/Desktop/Programación/ESP32/build/CMakeFiles/3.30.2/CMakeCXXCompiler.cmake
+C:/Users/mirfe/OneDrive/Desktop/Programación/ESP32/build/CMakeFiles/3.30.2/CMakeRCCompiler.cmake
+C:/Users/mirfe/OneDrive/Desktop/Programación/ESP32/build/CMakeFiles/3.30.2/CMakeSystem.cmake
+C:/vcpkg/installed/x64-windows/share/WebP/WebPConfig.cmake
+C:/vcpkg/installed/x64-windows/share/WebP/WebPConfigVersion.cmake
+C:/vcpkg/installed/x64-windows/share/WebP/WebPTargets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/WebP/WebPTargets-release.cmake
+C:/vcpkg/installed/x64-windows/share/WebP/WebPTargets.cmake
+C:/vcpkg/installed/x64-windows/share/freetype/freetype-config-version.cmake
+C:/vcpkg/installed/x64-windows/share/freetype/freetype-config.cmake
+C:/vcpkg/installed/x64-windows/share/freetype/freetype-targets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/freetype/freetype-targets-release.cmake
+C:/vcpkg/installed/x64-windows/share/freetype/freetype-targets.cmake
+C:/vcpkg/installed/x64-windows/share/freetype/vcpkg-cmake-wrapper.cmake
+C:/vcpkg/installed/x64-windows/share/jpeg/vcpkg-cmake-wrapper.cmake
+C:/vcpkg/installed/x64-windows/share/png/vcpkg-cmake-wrapper.cmake
+C:/vcpkg/installed/x64-windows/share/tiff/vcpkg-cmake-wrapper.cmake
+C:/vcpkg/installed/x64-windows/share/unofficial-graphicsmagick/unofficial-graphicsmagick-config.cmake
+C:/vcpkg/installed/x64-windows/share/unofficial-graphicsmagick/unofficial-graphicsmagick-targets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/unofficial-graphicsmagick/unofficial-graphicsmagick-targets-release.cmake
+C:/vcpkg/installed/x64-windows/share/unofficial-graphicsmagick/unofficial-graphicsmagick-targets.cmake
+C:/vcpkg/installed/x64-windows/share/zlib/vcpkg-cmake-wrapper.cmake
+C:/vcpkg/scripts/buildsystems/vcpkg.cmake
